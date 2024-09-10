@@ -1,0 +1,8 @@
+{
+    "name": "tick",
+    "build":{
+        "dockerfile": "../Dockerfile",
+        "context": "../"
+    }
+      
+}
